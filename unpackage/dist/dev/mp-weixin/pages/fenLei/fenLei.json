@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "common-nav": "/components/common-nav/common-nav",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "fen-lei-categories": "/components/fenLei-categories/fenLei-categories"
+  }
+}

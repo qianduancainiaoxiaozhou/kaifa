@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "菜谱搜索",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "common-nav": "/components/common-nav/common-nav",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "foods-search-video": "/components/foods-search-video/foods-search-video",
+    "foods-search-bottom": "/components/foods-search-bottom/foods-search-bottom",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast"
+  }
+}

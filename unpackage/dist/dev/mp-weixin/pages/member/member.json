@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "member-top": "/components/member-top/member-top",
+    "member-recommend": "/components/member-recommend/member-recommend",
+    "member-like": "/components/member-like/member-like",
+    "member-vip-exclusive": "/components/member-vipExclusive/member-vipExclusive"
+  }
+}

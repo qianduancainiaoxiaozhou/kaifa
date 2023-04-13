@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "common-nav": "/components/common-nav/common-nav",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "catitems-item": "/components/catitems-item/catitems-item",
+    "floor-item": "/components/floor-item/floor-item",
+    "recommend-item": "/components/recommend-item/recommend-item"
+  }
+}

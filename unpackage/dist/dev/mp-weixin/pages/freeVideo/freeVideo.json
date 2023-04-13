@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "header-navigation": "/components/header-navigation/header-navigation",
+    "vip-button": "/components/vip-button/vip-button",
+    "food-material": "/components/food-material/food-material"
+  }
+}

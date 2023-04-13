@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "header-navigation": "/components/header-navigation/header-navigation",
+    "vip-button": "/components/vip-button/vip-button",
+    "food-material": "/components/food-material/food-material",
+    "food-details": "/components/food-details/food-details",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast"
+  }
+}

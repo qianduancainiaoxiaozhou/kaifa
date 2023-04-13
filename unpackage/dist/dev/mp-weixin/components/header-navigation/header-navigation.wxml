@@ -1,0 +1,1 @@
+<view><view class="nav"><common-nav vue-id="9811b250-1" bind:__l="__l"></common-nav><view class="nav1"><view class="font1">{{videoData.name}}</view><view class="im"><image src="../../static/24.png" data-event-opts="{{[['tap',[['fanhui',['$event']]]]]}}" bindtap="__e"></image></view></view></view></view>
